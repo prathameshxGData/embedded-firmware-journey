@@ -3,3 +3,7 @@
 This file is being used to practice Git fundamentals.
 
 Git tracks changes through commits.
+
+## Git Workflow
+
+Modify → Review → Stage → Review → Commit → Verify
